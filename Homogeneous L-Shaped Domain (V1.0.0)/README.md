@@ -92,6 +92,8 @@ The implementation produces:
 - BEM field reconstruction
 - combined contour visualization of the BEM-PINN solution
 
+<img width="1807" height="474" alt="image" src="https://github.com/user-attachments/assets/53560ffd-77c9-42ef-9a49-75a01dc5270f" />
+
 ## 📄 Related Paper
 
 The scientific foundations of this work are presented in:
