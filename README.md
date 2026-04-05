@@ -1,4 +1,7 @@
-# BEM-PINN Framework for Laplace Equation on L-Shaped Domains
+# Hybrid Boundary Element–Physics-Informed Neural Network Framework for the Laplace Equation
+
+[![Project Website](https://shayandodge.github.io/)
+[![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
 
 This repository contains implementations of a coupled **Boundary Element Method (BEM)** and **Physics-Informed Neural Network (PINN)** framework for solving the **Laplace equation** on L-shaped domains.
 
