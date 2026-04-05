@@ -92,11 +92,6 @@ The implementation produces:
 - BEM field reconstruction
 - combined contour visualization of the BEM-PINN solution
 
-## Notes
-
-- This repository represents the **first version** of the code for the homogeneous L-shaped domain case.
-- The implementation is intended for research and reproducibility purposes.
-
 ## 📄 Related Paper
 
 The scientific foundations of this work are presented in:
