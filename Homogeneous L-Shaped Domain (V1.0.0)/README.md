@@ -41,7 +41,7 @@ This code performs the following steps:
     ├── LICENSE
     ├── .gitignore
     ├── main/
-    │   └── run_bem_pinn_laplace_lshape.m
+    │   └── bem_pinn_laplace_lshape.mlx
     ├── src/
     │   ├── model.mlx
     │   ├── modelLoss.mlx
