@@ -100,17 +100,19 @@ This repository is associated with the following paper:
 
 Please add the full citation here.
 
-## Citation
+## 📚 Citation
 
-If you use this code in your research, please cite the related paper.
+If you use this work, please cite:
+
+🔗 Paper link: https://ieeexplore.ieee.org/document/10755077
 
 ```bibtex
-@article{yourpaper,
-  title={Solving Laplace Equations with a Combined BEM and PINN Approach},
-  author={Author Name(s)},
-  journal={Journal Name},
+@article{barmada2024hybrid,
+  title={A Novel Hybrid Boundary Element—Physics Informed Neural Network Method for Numerical Solutions in Electromagnetics},
+  author={Barmada, Sami and Dodge, Shayan and Tucci, Mauro and Formisano, Alessandro and Di Barba, Paolo and Mognaschi, Maria Evelina},
+  journal={IEEE Access},
+  volume={12},
+  pages={171444--171457},
   year={2024},
-  volume={},
-  number={},
-  pages={}
+  publisher={IEEE}
 }
