@@ -5,7 +5,14 @@
 
 This repository contains implementations of a coupled **Boundary Element Method (BEM)** and **Physics-Informed Neural Network (PINN)** framework for solving the **Laplace equation**.
 
-The project is organized into versioned implementations, progressing from a baseline model to more advanced physical configurations.
+The scientific foundations of this work are presented in:
+
+> **Barmada, S., Dodge, S., Tucci, M., Formisano, A., Di Barba, P., & Mognaschi, M. E.**  
+> *“A Novel Hybrid Boundary Element—Physics Informed Neural Network Method for Numerical Solutions in Electromagnetics.”*  
+> IEEE Access, 2024, [10.1109/ACCESS.2024.3500039](https://ieeexplore.ieee.org/document/10755077).  
+> [Read the article](https://ieeexplore.ieee.org/document/10755077)
+
+This repository implements, reproduces, and extends the methodology described in the above peer-reviewed publication. If you use this code, dataset, or results in your research, please cite the original article.
 
 ---
 
@@ -81,6 +88,14 @@ Each version produces:
 
 ## 📄 Related Paper
 
+The scientific foundations of this work are presented in:
+
+> **Dodge, S.; Nicora, M.; Barmada, S.; Brignone, M.; Procopio, R.; Tucci, M.**  
+> *“A deep learning based lightning location system.”*  
+> Electric Power Systems Research, 2025, https://doi.org/10.1016/j.epsr.2025.111437.  
+> [Read the article](https://www.sciencedirect.com/science/article/pii/S0378779625000306)
+
+📌 This repository implements, reproduces, and extends the methodology described in the above peer-reviewed publication. If you use this code, dataset, or results in your research, please cite the original article.
 
 ## 📚 Citation
 
