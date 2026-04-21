@@ -1,4 +1,4 @@
-# Hybrid Boundary Element–Physics-Informed Neural Network Framework for the Laplace Equation
+# A Novel Hybrid Boundary Element – Physics Informed Neural Network Method for Numerical Solutions in Electromagnetics
 
 [![Project Website](https://img.shields.io/badge/website-BEM_PINN-blue)](https://shayandodge.github.io/)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
