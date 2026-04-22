@@ -1,8 +1,17 @@
-title: "A Novel Hybrid Boundary Element—Physics Informed Neural Network Method for Numerical Solutions in Electromagnetics"
+cff-version: 1.2.0
+title: "A Novel Hybrid Boundary Element – Physics Informed Neural Network Method for Numerical Solutions in Electromagnetics"
+message: "If you use this code, please cite our paper."
+type: software
+
 authors:
   - family-names: Barmada
     given-names: Sami
   - family-names: Dodge
     given-names: Shayan
+
 year: 2024
 doi: 10.1109/ACCESS.2024.3500039
+
+journal: "IEEE Access"
+
+url: https://ieeexplore.ieee.org/abstract/document/10755077
