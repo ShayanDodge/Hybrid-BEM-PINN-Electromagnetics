@@ -86,7 +86,9 @@ Boundary Element Method (BEM), Physics-Informed Neural Networks (PINNs), Electro
 
 <td width="45%" align="center">
 
-<img width="5843" height="5654" alt="V2 0 0" src="https://github.com/user-attachments/assets/859a80a4-e71f-41df-aa53-525d548be228" />
+<img width="5805" height="5597" alt="V2 0 0" src="https://github.com/user-attachments/assets/3e56e54f-17b1-43ab-b8e1-fca9e0cb03fa" />
+
+<sub>BEM–PINN coupling on L-shaped domain</sub>
 
 </td>
 </tr>
