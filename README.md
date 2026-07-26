@@ -74,7 +74,7 @@ Boundary Element Method (BEM), Physics-Informed Neural Networks (PINNs), Electro
 <tr>
 <td width="55%" valign="top">
 
-### 🔹 v2.0.0 — Non-Homogeneous L-Shaped Domain *(Coming Soon)*
+### 🔹 v2.0.0 — Non-Homogeneous Nested Square Domains *(Coming Soon)*
 
 - Extension to non-homogeneous / multi-material domains  
 - Incorporates interface conditions between different materials  
@@ -88,7 +88,7 @@ Boundary Element Method (BEM), Physics-Informed Neural Networks (PINNs), Electro
 
 <img width="5805" height="5597" alt="V2 0 0" src="https://github.com/user-attachments/assets/3e56e54f-17b1-43ab-b8e1-fca9e0cb03fa" />
 
-<sub>BEM–PINN coupling on L-shaped domain</sub>
+<sub>BEM–PINN coupling on Nested Square Domains</sub>
 
 </td>
 </tr>
