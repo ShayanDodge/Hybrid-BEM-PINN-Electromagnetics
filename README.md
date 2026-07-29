@@ -1,3 +1,4 @@
+
 # A Novel Hybrid Boundary Element—Physics Informed Neural Network Method for Numerical Solutions in Electromagnetics
 
 [![Project Website](https://img.shields.io/badge/website-BEM_PINN-blue)](https://shayandodge.github.io/)
@@ -17,6 +18,7 @@ It provides a hybrid computational framework that combines the **Boundary Elemen
 
 The repository reproduces and extends the methodology proposed in the paper, including domain decomposition and coupling via interface boundary conditions.
 
+<img width="1920" height="1080" alt="BEMPINN" src="https://github.com/user-attachments/assets/ac157f1a-6a82-46fe-97f9-f2fe25fe86c0" />
 ---
 
 ## 🧠 Overview
