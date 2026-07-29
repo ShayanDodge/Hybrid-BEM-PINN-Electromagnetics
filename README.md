@@ -82,11 +82,12 @@ Boundary Element Method (BEM), Physics-Informed Neural Networks (PINNs), Electro
 
 🚧 Currently under development.
 
+
 </td>
 
 <td width="45%" align="center">
 
-<img width="5805" height="5597" alt="V2 0 0" src="https://github.com/user-attachments/assets/3e56e54f-17b1-43ab-b8e1-fca9e0cb03fa" />
+<img width="5796" height="5796" alt="pinn_inside_bem_two_materials" src="https://github.com/user-attachments/assets/96a60dab-eda9-4b0c-910c-31f88d6c74a6" />
 
 <sub>BEM–PINN coupling on Nested Square Domains</sub>
 
