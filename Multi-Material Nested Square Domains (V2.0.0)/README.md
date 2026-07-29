@@ -139,7 +139,8 @@ The implementation produces:
 - error analysis
 
 <p align="center">
-<img src="YOUR_RESULTS_IMAGE.png" width="900">
+    <img width="1478" height="473" alt="image" src="https://github.com/user-attachments/assets/fb2d2fc8-d184-4283-b0c1-f9c2e99ca431" />
+
 </p>
 
 ---
