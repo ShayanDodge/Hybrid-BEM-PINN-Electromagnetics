@@ -74,14 +74,16 @@ Boundary Element Method (BEM), Physics-Informed Neural Networks (PINNs), Electro
 <tr>
 <td width="55%" valign="top">
 
-### 🔹 v2.0.0 — Non-Homogeneous Nested Square Domains *(Coming Soon)*
+### 🔹 v2.0.0 — Multi-Material Nested Square Domains
 
-- Extension to non-homogeneous / multi-material domains  
-- Incorporates interface conditions between different materials  
-- Improved physical modeling capabilities  
+- Extension from homogeneous to heterogeneous (multi-material) domains
+- Support for nested square geometries with material interfaces
+- Coupled BEM–PINN framework with interface continuity enforcement
+- Continuity of scalar potential and normal flux across interfaces
+- Improved modular architecture for multi-domain simulations
+- Validation on heterogeneous benchmark problems
 
-🚧 Currently under development.
-
+👉 This version validates the methodology presented in the paper.
 
 </td>
 
